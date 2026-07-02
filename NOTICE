@@ -1,0 +1,25 @@
+Social Post Agent
+Copyright (c) 2026 Fabio Pia
+
+This product includes the following third-party fonts, bundled in
+renderer/assets/ and embedded by the renderer as data URIs:
+
+  Montserrat
+    Files: Montserrat-700.woff2, Montserrat-800.woff2
+    Copyright: The Montserrat Project Authors
+    License: SIL Open Font License, Version 1.1
+    https://github.com/JulietaUla/Montserrat
+
+  Lato
+    Files: Lato-400.woff2, Lato-700.woff2
+    Copyright: Łukasz Dziedzic
+    License: SIL Open Font License, Version 1.1
+    https://www.latofonts.com/
+
+The SIL Open Font License (OFL) 1.1 permits use, study, modification and
+redistribution of these fonts, including bundling with software, provided the
+fonts are not sold by themselves and any derivative fonts do not use the
+Reserved Font Names. Full license text: https://openfontlicense.org/
+
+The Social Post Agent source code itself is licensed under the MIT License;
+see the LICENSE file.

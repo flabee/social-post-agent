@@ -1,0 +1,14 @@
+{
+  "name": "social-post-renderer",
+  "version": "1.0.0",
+  "description": "HTML->PNG renderer for social posts, via Puppeteer on Cloud Run.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jszip": "^3.10.1",
+    "puppeteer": "23.6.0"
+  }
+}

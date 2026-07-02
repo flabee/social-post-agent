@@ -1,0 +1,6 @@
+# Files pushed to the Apps Script project include all .gs and appsscript.json.
+# Nothing to exclude by default: config.example.gs and the test-*.gs files are
+# useful in the editor during setup and verification. Remove them from the push
+# if you prefer a leaner deployment.
+**/*.md
+.clasp.json.example
