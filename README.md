@@ -13,6 +13,11 @@ fictional **"Acme"** — replace it with yours.
 > Secrets and per-deployment values live **only** in Script Properties, never in
 > code. Nothing brand-specific or secret is hardcoded.
 
+<p align="center">
+  <img src="docs/example-news.png" alt="A news post rendered by the engine" width="380">
+  <br><sub><em>A post rendered by the built-in renderer, using the neutral <strong>“Acme”</strong> example template. Swap in your own background and fonts.</em></sub>
+</p>
+
 ## What it does
 
 - **Proactive**: a weekly trigger (Monday morning by default) posts a fresh post idea
